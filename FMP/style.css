@@ -1,0 +1,164 @@
+.navbar-brand{
+    font-size: 40px;
+}
+
+#blogs{
+    margin-top: 70px;
+}
+
+#para{
+    text-align: center;
+    color: white;
+    background-color: rgb(92, 90, 90);
+    padding-top: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.content #text{
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    /* color: rgb(0, 0, 0); */
+    color: brown;
+    margin-bottom: 50px;
+}
+
+.blog #text{
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    /* color: rgb(0, 0, 0); */
+    color: #212529;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.row{
+    justify-content: center !important;
+    padding-bottom: 50px;
+}
+
+#blogs .row .card{
+    width: 420px !important;
+    text-align: center !important;
+    margin-bottom: 20px !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+}
+
+.ancher{
+    text-decoration: none;
+}
+
+.card{
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+#btn{
+    background-color: #212529 !important;
+    color: white !important;
+    border: 1px solid #212529;
+}
+
+#contents{
+    margin-top: 5px !important;
+}
+
+#card-body{
+    justify-content: center !important;
+    text-align: center;
+    color: white;
+}
+
+#cardText{
+    background-color: #212529;
+}
+
+#logos{
+    border: none !important;
+}
+
+.brand #text{
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    /* color: rgb(0, 0, 0); */
+    color: orange;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+#brands{
+    margin-bottom: 50px !important;
+}
+
+#footer{
+    padding-top: 30px !important;
+    background-color: #212529;
+    color: white;
+    text-align: center;
+
+}
+
+.row div{
+    text-align: left !important;
+    margin-bottom: 20px !important;
+}
+
+.row div a{
+    text-decoration: none;
+    color: grey;
+}
+
+.row div a:hover{
+    color: green;
+}
+
+#store p{
+    color: rgb(157, 158, 158);
+}
+
+#store h5{
+    color: green;
+}
+
+#main div{
+    margin: 0 auto;
+}
+
+#developer{
+    text-align: right !important;
+    padding-right: 60px;
+}
+
+#endFooter{
+    /* margin-bottom: 0px !important; */
+    color: green;
+    background-color: #212529;
+}
+
+#copyright{
+    padding-left: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
